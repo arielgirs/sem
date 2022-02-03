@@ -8,4 +8,4 @@ Testing if github actions is working.
 
 [![Releases](https://img.shields.io/github/release/arielgirs/sem/all.svg?style=flat-square)](https://github.com/<arielgirs>/sem/releases)
 
-![GitHub Workflow Status (branch)](https://img.shields.io/github/workflow/status/arielgirs/sem/main.yml/develop?style=flat-square)
+develop![GitHub Workflow Status (branch)](https://img.shields.io/github/workflow/status/arielgirs/sem/A%20workflow%20for%20my%20Hello%20World%20App/develop)
