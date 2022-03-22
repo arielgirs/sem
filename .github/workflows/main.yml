@@ -3,7 +3,7 @@ on:
   push:
     branches:
       - master
-      - feature/lab8-intergration-testing
+      - feature/lab8-integration-testing
 jobs:
   UnitTests:
     name: Unit Tests
