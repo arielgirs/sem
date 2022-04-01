@@ -61,8 +61,7 @@
                 <version>2.19.1</version>
                 <configuration>
                 <testFailureIgnore>true</testFailureIgnore>
-                </configuration>>
-                <dependencies>
+                </configuration>
                     <dependency>
                         <groupId>org.junit.platform</groupId>
                         <artifactId>junit-platform-surefire-provider</artifactId>
